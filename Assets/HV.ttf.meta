@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a04146524ded7e649a112ff34a3e66eb
+timeCreated: 1507625236
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Helvetica CE
+  fontNames:
+  - Helvetica CE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0613da406d9e0834d9066e6145dccfb1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Firstscene.unity
+    guid: b8f7b03caf193754485f66fae60bd876
+  - enabled: 1
+    path: Assets/Scenes/MasterRoom.unity
+    guid: b022b90d238cc0c4483a1603ecd6067d
+  - enabled: 1
+    path: Assets/Scenes/ShowCarRoom.unity
+    guid: eb2d23c45b3b804418beeba682304e66
+  - enabled: 1
+    path: Assets/Scenes/Porsche_Room.unity
+    guid: c74be79b28e014f919b884723076024d
